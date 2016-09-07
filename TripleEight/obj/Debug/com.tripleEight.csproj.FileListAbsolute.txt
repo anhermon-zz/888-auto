@@ -1,0 +1,15 @@
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\TripleEight.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\TripleEight.exe
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\TripleEight.pdb
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\Ranorex.Core.dll
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\Ranorex.Libs.Base.dll
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\Ranorex.Libs.dll
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\Ranorex.Libs.Util.dll
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\Ranorex.Core.WinApi.dll
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\Ranorex.Libs.Licensing.dll
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\Ranorex.Common.dll
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\stdole.dll
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\bin\Debug\Ranorex.Core.xml
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\obj\Debug\com.tripleEight.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\obj\Debug\TripleEight.exe
+c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\obj\Debug\TripleEight.pdb

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report>
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="51560f2748e9df8"
+		totalerrorcount="0"
+		totalwarningcount="2"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="angel"
+		host="ANGEL-LAP"
+		rxversion="6.0.2.0"
+		osversion="Windows 8.1 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		language="en-US"
+		screenresolution="1366x768"
+		timestamp="25/08/2016 17:17:35"
+		timestampiso="2016-08-25T14:17:35"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.067"
+			timeRelativeToTestModuleStartTime="00:00.068"
+			timeWallClock="17:17:35"
+			time="00:00.067"
+			level="Warn"
+			category="Internet Explorer">
+			<message>
+				Please make sure that you have the Ranorex Addon installed and enabled in Internet Explorer. Otherwise Ranorex UI element identification might be very slow.<br/>The following website provides more information on this technology limitation:<br/>http://www.ranorex.com/support/user-guide-20/technology-instrumentation/general-troubleshooting.html#c3253<br/>(This message is only shown once per report.)
+			</message>
+			<metainfo
+				limitationName="IEAddon"
+				codefile="C:\Users\angel\Documents\Visual Studio 2015\Projects\TripleEight\TripleEight\components\LobbyTabs.cs"
+				codeline="36"
+				loglvl="Warn"/>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.174"
+			timeRelativeToTestModuleStartTime="00:03.175"
+			timeWallClock="17:17:38"
+			time="00:03.174"
+			level="Warn"
+			category="Win32">
+			<message>
+				The automating process does not have the required security permissions to access the process 'putty'. UI element identification capabilities for controls in that process are limited.<br/>The following website provides more information on this technology limitation:<br/>http://www.ranorex.com/support/user-guide-20/technology-instrumentation/general-troubleshooting.html#c3252<br/>(This message is only shown once per report.)
+			</message>
+			<metainfo
+				limitationName="ProcessPermissions"
+				codefile="C:\Users\angel\Documents\Visual Studio 2015\Projects\TripleEight\TripleEight\components\LobbyTabs.cs"
+				codeline="36"
+				loglvl="Warn"/>
+		</item>
+	</activity>
+</report>

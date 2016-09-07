@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report>
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="8b4007fa6d38d3e"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="angel"
+		host="ANGEL-LAP"
+		rxversion="6.0.2.0"
+		osversion="Windows 8.1 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		language="en-US"
+		screenresolution="1366x768"
+		timestamp="24/08/2016 17:09:30"
+		timestampiso="2016-08-24T14:09:30"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.019"
+			timeRelativeToTestModuleStartTime="00:00.019"
+			timeWallClock="17:09:30"
+			time="00:00.019"
+			level="Warn"
+			category="Automation">
+			<message>
+				The apartment state of the current thread is not set to STA. Please make sure that all threads accessing Ranorex methods have their apartment state set to STA.
+			</message>
+			<metainfo
+				codefile="c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\PokerSetup.cs"
+				codeline="21"
+				loglvl="Warn"/>
+		</item>
+	</activity>
+</report>

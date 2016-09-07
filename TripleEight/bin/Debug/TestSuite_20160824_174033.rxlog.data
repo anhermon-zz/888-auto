@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report>
+	<activity
+		result="Failed"
+		duration="13.14s"
+		durationms="13144"
+		type="root"
+		rid="36a0d2cd31b4c00"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="angel"
+		host="ANGEL-LAP"
+		rxversion="6.0.2.0"
+		osversion="Windows 8.1 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		language="en-US"
+		screenresolution="1366x768"
+		timestamp="24/08/2016 17:40:33"
+		timestampiso="2016-08-24T14:40:33"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.031"
+			timeRelativeToTestModuleStartTime="00:00.032"
+			timeWallClock="17:40:33"
+			time="00:00.031"
+			level="Info"
+			category="User">
+			<message>
+				Exists = {RadioButton:I &amp;accept the agreement}
+			</message>
+			<metainfo
+				codefile="c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\PokerSetup.cs"
+				codeline="21"
+				loglvl="Info"/>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.032"
+			timeRelativeToTestModuleStartTime="00:00.033"
+			timeWallClock="17:40:33"
+			time="00:00.032"
+			level="Success"
+			category="Validation">
+			<message>
+				Element '{RadioButton:I &amp;accept the agreement}' does exist.
+			</message>
+			<metainfo
+				codefile="c:\users\angel\documents\visual studio 2015\Projects\TripleEight\TripleEight\PokerSetup.cs"
+				codeline="22"
+				loglvl="Success"/>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.144"
+			timeRelativeToTestModuleStartTime="00:13.145"
+			timeWallClock="17:40:46"
+			time="00:13.144"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error"/>
+		</item>
+	</activity>
+</report>
